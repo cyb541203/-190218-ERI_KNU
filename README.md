@@ -55,6 +55,6 @@ South Korea had been considered one of the safe countries from earthquakes befor
 
 In order to mitigate the effect of future earthquakes, we had a technical meeting to discuss on
 
-- Bird eye's view of earthquake effects acting on objects in terms of Civil engineering analysis
+- Bird's-eye view of earthquake effects acting on objects in terms of Civil engineering analysis
 - Retrofit methods for reinforced concrete buildings
 - Earthquake alarming systems to notify residents in advance
